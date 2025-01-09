@@ -1,4 +1,4 @@
-# POO
+-----
 
 <div align="center">
     <table>
@@ -23,3 +23,10 @@
 Disciplina do curso de Ciência da Computação da Universidade FUMEC
 
 (2016-2020)
+
+-----
+
+### Sumário:
+- [Aulas em PDF](https://github.com/joaopauloaramuni/poo/tree/main/PDF)
+
+-----
